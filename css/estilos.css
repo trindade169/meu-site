@@ -65,3 +65,8 @@ main .main-contenet h2{
     margin-bottom: 2%;
     font-size: 2.2em;
 }
+main .main-contenet .text{
+    width: 75%;
+    font-size: 1,2em;
+    font-weight: 300 ;
+}
