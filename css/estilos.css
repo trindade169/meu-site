@@ -69,4 +69,6 @@ main .main-contenet .text{
     width: 75%;
     font-size: 1,2em;
     font-weight: 300 ;
+    line-height: 1.6em;
+    padding: 0 5%;
 }
