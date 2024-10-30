@@ -72,3 +72,11 @@ main .main-contenet .text{
     line-height: 1.6em;
     padding: 0 5%;
 }
+/*Cards*/
+main .techs .cards-container{
+    display: flex;
+    align-items: center;
+}
+main .techs .cards-container{
+    
+}
