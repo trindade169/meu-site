@@ -1,4 +1,4 @@
-             /*Reset CSS*/
+/*Reset CSS*/
 *{
     margin: 0;
     padding: 0;
@@ -65,6 +65,9 @@ main .main-contenet h2{
     margin-bottom: 2%;
     font-size: 2.2em;
 }
+main .main-contenet{
+    margin-bottom: 10%;
+}
 main .main-contenet .text{
     width: 75%;
     font-size: 1,2em;
@@ -73,10 +76,21 @@ main .main-contenet .text{
     padding: 0 5%;
 }
 /*Cards*/
+
 main .techs .cards-container{
     display: flex;
     align-items: center;
 }
 main .techs .cards-container{
-    
+    width: 120px;
+    height: 120px;
+    padding: 10%;
+    background-color: #eee;
+    border-radius: 8PX;
+    margin-right: 1.8em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0,2s ease-in-out;
 }
